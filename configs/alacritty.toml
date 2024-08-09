@@ -1,0 +1,10 @@
+import = [ "~/.config/alacritty/theme.toml", "~/.config/alacritty/font.toml", "~/.local/share/omakub/defaults/alacritty.toml" ]
+
+[font]
+size = 7
+
+[keyboard]
+bindings = [
+{ key = "F11", action = "None" },
+]
+
